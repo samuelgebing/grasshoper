@@ -72,3 +72,14 @@ newLine();
 //resolution
 drawBoxes('ggg yyy bbb');
 newLine();
+
+/*
+* Forth lesson - "A Dash of Random"
+*/
+
+// introduction
+drawBox(pickRandom(color));
+// drawBox();
+
+// resolution
+drawBox(pickRandom(color));
