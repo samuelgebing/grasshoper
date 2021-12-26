@@ -71,4 +71,4 @@ newLine();
 
 //resolution
 drawBoxes('ggg yyy bbb');
-new Line();
+newLine();
